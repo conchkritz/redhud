@@ -1,7 +1,10 @@
 # redhud
 funny bobloxo hud
 
+![Screenshot (233)](https://user-images.githubusercontent.com/76109782/181346569-34693ad2-efa7-4d6d-b6e8-029fa9502089.png)
+
 **THIS IS VERY UNPOLISHED AS OF NOW**
+
 
 # Install
 * to install, press windows key and r at the same time
