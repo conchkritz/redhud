@@ -38,4 +38,9 @@ oh ok
 
 * go to the content folder in the zip
 * only drag and drop the textures folder into the matching textures folder
-* optionally you can delete the help folder in textures/ui/settings/help as it uses product sans too
+* optionally you can delete the help folder in textures/ui/settings/help as it uses product sans ~~too~~ (now we use google sans)
+
+
+# Credits
+
+* [Font Download](https://github.com/D4rK7355608/GoogleProductSansFont)
